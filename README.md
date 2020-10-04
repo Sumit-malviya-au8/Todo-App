@@ -1,4 +1,4 @@
-Todo App Snap 
+Todo App Snap <br />
 ✅Hosted Link:- https://todo-33ff7.web.app/
 
 
@@ -6,16 +6,16 @@ Todo App Snap
 
 
 
-✅ Todo App📚
-    ✔️Full CRUD Functionality(Create, Read, Update & Delete)
-    ✔️Used React 
-        -React Hooks
-    ✔️Material Ui for designing
-    ✔️Firebase
-        -Hosting
-        -Realtime Database
+✅ Todo App📚 <br />
+    ✔️Full CRUD Functionality(Create, Read, Update & Delete) <br />
+    ✔️Used React <br />
+        -React Hooks <br />
+    ✔️Material Ui for designing <br />
+    ✔️Firebase <br />
+        -Hosting <br />
+        -Realtime Database <br />
     
 
-Credit: Clever Programmer
+Credit: Clever Programmer <br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
